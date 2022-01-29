@@ -1,0 +1,12 @@
+.btn-group {
+  margin: 20px 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#results {
+  margin-top: 20px;
+  text-align: center;
+}
